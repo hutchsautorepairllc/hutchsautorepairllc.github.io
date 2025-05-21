@@ -1,0 +1,23 @@
+{
+  "Status": 0,
+  "TC": false,
+  "RD": true,
+  "RA": true,
+  "AD": true,
+  "CD": false,
+  "Question": [
+    {
+      "name": "hutchsautorepair.com.",
+      "type": 1
+    }
+  ],
+  "Answer": [
+    {
+      "name": "hutchsautorepair.com.",
+      "type": 1,
+      "TTL": 3600,
+      "data": "217.160.0.40"
+    }
+  ],
+  "Comment": "Response from 217.160.80.47."
+}
